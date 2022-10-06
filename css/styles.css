@@ -2,6 +2,7 @@
 /* body{
     background: rgb(186, 228, 248);
 } */
+@import url(supreme.css);
 
 :root {
     --content-width: 50ch;
